@@ -41,7 +41,7 @@ class SubActivity : ComponentActivity() {
                 modifier = Modifier.fillMaxSize()
             ) {
 
-                Text(text = "$name Large meal")
+                Text(text = "$name Large Meal")
                 Text(text = "$name Meal")
                 Text(text = "$name Single")
 
